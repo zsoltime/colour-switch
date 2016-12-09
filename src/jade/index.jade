@@ -1,0 +1,17 @@
+extends layout
+block title
+  title (6) Colour Switch - Colour Game
+block content
+  .game#game
+    #dark.darkside
+  .status
+    .score Score: #[span#score ]
+    .timer
+      .wrap
+        #timer
+    .level Level: #[span#level ]
+  #modal.modal.active
+    h1 Colour#[span /]#[span Switch]
+    p Always click on the #[span dark side]
+    p.results
+    #start Start
