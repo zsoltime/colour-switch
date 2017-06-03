@@ -2,7 +2,10 @@
 
 I'm not sure if Colour Switch is a good name for this game but I couldn't come up with anything better and didn't want to spend more time on the name itself than writing the code.
 
-Click on the darker colour as fast as you can.
+The rules are simple. Click on the darker colour as fast as you can.
+
+If you enjoyed this game, you can check out some of the other ones from my [3 weeks game challenge](https://github.com/zsoltime/game-challenge).
+
 
 ## User Stories
 
